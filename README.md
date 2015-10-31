@@ -33,6 +33,6 @@ And the message will display into the log file like that
 
 ## Zip functionnality
 
-To use the zip, you have to call the following line into a crontab for example and all your old log files will automatically zip **your_name_file-2015-10-16.zip**
+To use the zip, you have to call the following line into a crontab for example and all your old log files will automatically zip into **your_name_file-2015-10-16.zip**
 
 ` $this->logger->zip() `
